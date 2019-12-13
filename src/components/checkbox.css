@@ -1,0 +1,26 @@
+ h3 {
+    font-size: 20px;
+    font-family: sans-serif;
+    padding: 0 0 0 10px;
+    color: grey;
+}
+
+
+li {
+    list-style-type: none;
+    padding: 0 0 10px 0;
+    font-size: 18px;
+   
+}
+hr {
+    border-top: 1px light black;
+   width:30%;
+   float: left;
+
+}
+.list{
+    border: #000000;
+    width:80px;
+    height: 10px;
+}
+
